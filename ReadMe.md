@@ -20,4 +20,4 @@
 
 Данные взяты с сайта hh.ru. </div>
 
-Ссылка на проект ...
+Ссылка на проект https://github.com/KuznetsovAnastasiia/HH_RU_PARSING/blob/main/HH_RU_PARSING.ipynb
