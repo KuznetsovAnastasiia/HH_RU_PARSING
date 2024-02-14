@@ -1,6 +1,6 @@
 <h1 align="center"> Проект "Парсинг данных о вакансиях с сайта hh.ru и исследование полученных данных" </h1>
 
-<center><img src="https://gazon.media/userfls/news/large/2/11674_nayti-vakansiyu-mechty-kak-ts.png" width="600" height="400" /></center>
+<p align="center"><img src="https://gazon.media/userfls/news/large/2/11674_nayti-vakansiyu-mechty-kak-ts.png" width="600" height="400" /></p>
 
 
 
